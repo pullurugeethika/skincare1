@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://sites.google.com/view/beauty-saloon-azure/home
-**project demo video link** - 
+**project demo video link** - https://youtu.be/82VLfoGdzcw
 
 ## Azure technologies used for Project
 
