@@ -13,7 +13,8 @@ This is a web based application developed for health related based website in in
 - Static web apps
 - Health bot
 
-
+Project Description 👇:
+I have created a chat bott for "SKIN CARE AND BEAUTY" using HTML, QnA Maker and web apps .It helps the user to find the information regarding the skin care and beauty.It helps the user to find the information about skincare and beauty. In this website I have made Home,Chatbott,Services,About,Testimonials,Contact.It looks like a professional bot for the purpose of skincare and beauty. By using this chat bott Iam trying to solve the issues like which type of services we are providing, for which cost we are providing our services, timings,how to book appointments through online like this..So i have made a bot where I try to give details about the skincare and beauty .My project helps our guests for which provides every services in detail related to our services like Nail styling, Hair styling,Makeup services.
 
 ## Features and Functionalities 😃
 
